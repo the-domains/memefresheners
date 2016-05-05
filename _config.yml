@@ -1,0 +1,28 @@
+name: MemeFresheners
+favicon: null
+layout_spectrum: 0.9593474192079157
+typography_spectrum: 0.05265690269879997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4140247486066073
+  lightness: 0.7360142536927015
+  saturation: 0.3325618412345648
+  rhythmicContrast: 0.07987807434983552
+purpose: []
